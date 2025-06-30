@@ -94,7 +94,20 @@ Maybe you can’t. But I’m still here.
  (((^_(((/(((_/
 </pre>
 <i>shhh... productivity is sleeping too.</i>
-</p>
+
+## 📄 License
+
+This README and its contents are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+You're free to:
+
+* **Share** — copy and redistribute the material in any medium or format
+* **Adapt** — remix, transform, and build upon the material
+
+As long as you give appropriate credit. Please credit: [aeswnh](https://github.com/aeswnh)
+
+---
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aeswnh&style=flat-square&color=blue" alt="Profile Views"/>
