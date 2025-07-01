@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <b>✧ aeswnh ✧</b>
+  <b>✨ aeswnh ✨</b>
 </h1>
 
 <p align="center">
@@ -15,33 +15,32 @@
 ---
 
 ## 🌱 About Me
-I'm not the loudest in the room, but I might be the one still thinking after everyone left.  
+
+I'm not the loudest in the room, but I might be the one still thinking after everyone left.
 No profile picture. No noise. Just code.
 
-A rare `.rar` soul extracted slowly.
+A rare `.rar` soul extracted slowly. 🐚
 
 ---
 
-## 🛠️ Tech & Tools
-<p>
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+## 🛠️✨ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,nodejs,bash,c,cpp,markdown&theme=dark" height="48"/>
+</p>
+<p align="center">
+  🐧 💛 🐍 🌿 🖥️ 💾 ⌨️ 🌌
 </p>
 
-- umfff...  
-- Terminal enjoyer  
-- I build quietly — mostly for myself
+* 🫧 terminal enjoyer
+* 🧸 building things for myself, mostly
+* 💭 quiet in presence, loud in curiosity
 
 ---
 
 <p align="center">
 <pre>
- /\\_/\\ 
+ /\_/\
 ( - . - )  < "I don't build fast. I build real."
  > ^ <
 </pre>
@@ -49,38 +48,42 @@ A rare `.rar` soul extracted slowly.
 
 <blockquote>
   Typing softly, thinking deeply.  
-  Sometimes here. Sometimes never.
+  Sometimes here. Sometimes never. 💫
 </blockquote>
 
 ---
 
-## 📂 Projects
-- [`modcore`](https://github.com/aeswnh/modcore) — Telegram modular bot engine  
-- [`umodcore`](https://github.com/aeswnh/umodcore) — Userbot version of ModCore  
-- More... maybe, if you're patient.
+## 📂✨ Projects
+
+* [`modcore`](https://github.com/aeswnh/modcore) — Telegram modular bot engine 🧠🤖
+* [`umodcore`](https://github.com/aeswnh/umodcore) — Userbot version of ModCore 👥⚙️
+* More... maybe, if you're patient. 🐢
 
 ---
 
 ## 📚 Currently Learning
-- Low-level kernel & device trees  
-- Exploring more with C/C++  
-- Making life simpler through silent automation
-- how to sleep?
+
+* ⚙️ low-level kernel & device trees
+* 🧠 exploring more with C/C++
+* 🪄 making life simpler through silent automation
+* 😴 how to sleep
 
 ---
 
-## 🕵️ GitHub Stats
-(You won’t find much. That’s the point.)
+## 🕵️‍♂️ GitHub Stats
+
+(You won’t find much. That’s the point.) 🌫️
 
 ---
 
 ## 🌙 Reach Me?
-Maybe you can’t. But I’m still here.  
-📬 Telegram: [@aeswnh](https://t.me/aeswnh)
+
+Maybe you can’t. But I’m still here.
+📬 Telegram: [@aeswnh](https://t.me/aesneverhere)
 
 <p align="center">
 <pre>
- /\\_/\\
+ /\_/\
 ( o.o )  < "bye."
  > ^ <
 </pre>
@@ -88,26 +91,12 @@ Maybe you can’t. But I’m still here.
 
 <p align="center">
 <pre>
-  |\\__/,|   (`\\
+  |\__/,|   (`\
   |_ _  |.--.) )
   ( T   )     /
  (((^_(((/(((_/
 </pre>
-<i>shhh... productivity is sleeping too.</i>
-
-## 📄 License
-
-This README and its contents are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
-
-You're free to:
-
-* **Share** — copy and redistribute the material in any medium or format
-* **Adapt** — remix, transform, and build upon the material
-
-As long as you give appropriate credit. Please credit: [aeswnh](https://github.com/aeswnh)
-
----
-
+<i>shhh... productivity is sleeping too. 💤</i>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aeswnh&style=flat-square&color=blue" alt="Profile Views"/>
@@ -121,6 +110,6 @@ As long as you give appropriate credit. Please credit: [aeswnh](https://github.c
 ---
 
 <p align="center">
-  <sub><i>Crafted with minimal noise and maximum curiosity</i></sub><br/>
+  <sub><i>Crafted with minimal noise and maximum curiosity ✦</i></sub><br/>
   <b>Made with ❤ by Kiraa Sonnet-4o</b>
 </p>
