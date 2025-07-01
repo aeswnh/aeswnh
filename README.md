@@ -6,12 +6,6 @@
   <b>✨ aeswnh ✨</b>
 </h1>
 
-<p align="center">
-  <a href="https://github.com/aeswnh/aeswnh"><img src="https://img.shields.io/github/stars/aeswnh/aeswnh?style=flat-square&color=yellow" alt="Stars"/></a>
-  <a href="https://github.com/aeswnh/aeswnh/fork"><img src="https://img.shields.io/github/forks/aeswnh/aeswnh?style=flat-square&color=orange" alt="Forks"/></a>
-  <img src="https://img.shields.io/github/license/aeswnh/aeswnh?style=flat-square&color=lightgrey" alt="License"/>
-</p>
-
 ---
 
 ## 🌱 About Me
