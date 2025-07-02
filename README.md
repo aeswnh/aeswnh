@@ -22,9 +22,6 @@ A rare `.rar` soul extracted slowly. 🐚
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,python,nodejs,bash,c,cpp,markdown&theme=dark" height="48"/>
 </p>
-<p align="center">
-  🐧 💛 🐍 🌿 🖥️ 💾 ⌨️ 🌌
-</p>
 
 * 🪧 terminal enjoyer
 * 🤸‍♂️ building things for myself, mostly
@@ -52,7 +49,7 @@ A rare `.rar` soul extracted slowly. 🐚
 * [`modcore`](https://github.com/aes-co/modcore) — Telegram modular bot engine 🧠🤖
 * [`umodcore`](https://github.com/aes-co/umodcore) — Userbot version of ModCore 👥⚙️
 * [`aetherbot`](https://github.com/aes-co/aetherbot) — OSINT & investigation bot 🧰🕵️
-* [`aes.co`](https://github.com/aes-co/.github) — Org for bots, automation & quiet tools 🛸
+* [`aes.co`](https://github.com/aes-co) — Org for bots, automation & quiet tools 🛸
 * More... maybe, if you're patient. 🐢
 
 ---
