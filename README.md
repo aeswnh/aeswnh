@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <b>✨ aeswnh ✨</b>
+  <b>aeswnh</b>
 </h1>
 
 ---
@@ -26,8 +26,8 @@ A rare `.rar` soul extracted slowly. 🐚
   🐧 💛 🐍 🌿 🖥️ 💾 ⌨️ 🌌
 </p>
 
-* 🫧 terminal enjoyer
-* 🧸 building things for myself, mostly
+* 🪧 terminal enjoyer
+* 🤸‍♂️ building things for myself, mostly
 * 💭 quiet in presence, loud in curiosity
 
 ---
@@ -42,15 +42,17 @@ A rare `.rar` soul extracted slowly. 🐚
 
 <blockquote>
   Typing softly, thinking deeply.  
-  Sometimes here. Sometimes never. 💫
+  Sometimes here. Sometimes never. 🌛
 </blockquote>
 
 ---
 
 ## 📂✨ Projects
 
-* [`modcore`](https://github.com/aeswnh/modcore) — Telegram modular bot engine 🧠🤖
-* [`umodcore`](https://github.com/aeswnh/umodcore) — Userbot version of ModCore 👥⚙️
+* [`modcore`](https://github.com/aes-co/modcore) — Telegram modular bot engine 🧠🤖
+* [`umodcore`](https://github.com/aes-co/umodcore) — Userbot version of ModCore 👥⚙️
+* [`aetherbot`](https://github.com/aes-co/aetherbot) — OSINT & investigation bot 🧰🕵️
+* [`aes.co`](https://github.com/aes-co/.github) — Org for bots, automation & quiet tools 🛸
 * More... maybe, if you're patient. 🐢
 
 ---
@@ -60,20 +62,20 @@ A rare `.rar` soul extracted slowly. 🐚
 * ⚙️ low-level kernel & device trees
 * 🧠 exploring more with C/C++
 * 🪄 making life simpler through silent automation
-* 😴 how to sleep
+* 🛌 how to sleep
 
 ---
 
 ## 🕵️‍♂️ GitHub Stats
 
-(You won’t find much. That’s the point.) 🌫️
+(You won’t find much. That’s the point.) ✫
 
 ---
 
 ## 🌙 Reach Me?
 
 Maybe you can’t. But I’m still here.
-📬 Telegram: [@aeswnh](https://t.me/aesneverhere)
+📬 Telegram: [@aesneverhere](https://t.me/aesneverhere)
 
 <p align="center">
 <pre>
@@ -85,18 +87,19 @@ Maybe you can’t. But I’m still here.
 
 <p align="center">
 <pre>
-  |\__/,|   (`\
+  |\__/\,|   (`\
   |_ _  |.--.) )
   ( T   )     /
  (((^_(((/(((_/
 </pre>
-<i>shhh... productivity is sleeping too. 💤</i>
+<i>shhh... productivity is sleeping too. 🛌</i>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aeswnh&style=flat-square&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/uptime-24%2F7-44cc11?style=flat-square" alt="Uptime"/>
   <img src="https://img.shields.io/badge/built%20in-silence-blueviolet?style=flat-square" alt="Built in Silence"/>
-  <img src="https://img.shields.io/badge/last%20updated-June%2029%2C%202025-informational?style=flat-square" alt="Last Updated"/>
+  <img src="https://img.shields.io/badge/last%20updated-July%202%2C%202025-informational?style=flat-square" alt="Last Updated"/>
   <img src="https://img.shields.io/badge/powered%20by-curiosity-ff69b4?style=flat-square" alt="Powered by Curiosity"/>
   <img src="https://img.shields.io/badge/fueled%20by-lag-9cf?style=flat-square" alt="Fueled by Lag"/>
 </p>
@@ -105,5 +108,5 @@ Maybe you can’t. But I’m still here.
 
 <p align="center">
   <sub><i>Crafted with minimal noise and maximum curiosity ✦</i></sub><br/>
-  <b>Made with ❤ by Kiraa Sonnet-4o</b>
+  <b>Made with ❤ by aeswnh / aes-co</b>
 </p>
